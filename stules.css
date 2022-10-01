@@ -108,6 +108,10 @@ p {
 }
 
 @media only screen and (max-width: 768px) {
+    .container {
+        padding: .625rem;
+    }
+    
     .wrapper {
         grid-template-columns: 1fr;
     }
