@@ -2,7 +2,7 @@
 <br>
 <br>
 <p>Links!</p>
-Live link:
+Live link: https://cwbads22.github.io/threecolumncard/index.html
 <br>
 <br>
 Front End Mentor Challenge:
